@@ -1,5 +1,5 @@
 <h1>ExpNo 3 : Implement Breadth First Search Traversal of a Graph</h1> 
-<h3>Name: DHARMALINGAM S R</h3>
+<h3>Name: DHARMALINGAM S </h3>
 <h3>Register Number:212223040037</h3>
 <H3>Aim:</H3>
 <p>To Implement Breadth First Search Traversal of a Graph using Python 3.</p>
